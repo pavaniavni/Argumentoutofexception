@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\bin\Debug\net6.0\AOoEx.exe
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\bin\Debug\net6.0\AOoEx.deps.json
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\bin\Debug\net6.0\AOoEx.runtimeconfig.json
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\bin\Debug\net6.0\AOoEx.dll
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\bin\Debug\net6.0\ref\AOoEx.dll
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\bin\Debug\net6.0\AOoEx.pdb
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\obj\Debug\net6.0\AOoEx.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\obj\Debug\net6.0\AOoEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\obj\Debug\net6.0\AOoEx.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\obj\Debug\net6.0\AOoEx.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\obj\Debug\net6.0\AOoEx.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\obj\Debug\net6.0\AOoEx.dll
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\obj\Debug\net6.0\ref\AOoEx.dll
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\obj\Debug\net6.0\AOoEx.pdb
+C:\Users\Pavani\source\repos\AOoEx\AOoEx\obj\Debug\net6.0\AOoEx.genruntimeconfig.cache
